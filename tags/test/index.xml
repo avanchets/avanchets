@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Avanchets</title>
-    <link>https://hugo-future-imperfect-slim.netlify.app/tags/test/</link>
+    <link>https://avanchets.github.io/tags/test/</link>
     <description>Recent content in test on Avanchets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-future-imperfect-slim.netlify.app/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://avanchets.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A post, but no image</title>
-      <link>https://hugo-future-imperfect-slim.netlify.app/blog/test-post/</link>
+      <link>https://avanchets.github.io/blog/test-post/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-future-imperfect-slim.netlify.app/blog/test-post/</guid>
+      <guid>https://avanchets.github.io/blog/test-post/</guid>
       <description>This is a test post, without an image to see what that looks like on the side bar/recent posts/featured.
 A big heading Because why the heck not</description>
     </item>

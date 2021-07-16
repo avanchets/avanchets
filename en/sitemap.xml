@@ -2,263 +2,263 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/test-post/</loc>
+    <loc>https://avanchets.github.io/blog/test-post/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/</loc>
+    <loc>https://avanchets.github.io/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/"
+                href="https://avanchets.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/"
+                href="https://avanchets.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/"
+                href="https://avanchets.github.io/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/</loc>
+    <loc>https://avanchets.github.io/blog/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/blog/"
+                href="https://avanchets.github.io/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/blog/"
+                href="https://avanchets.github.io/blog/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/categories/</loc>
+    <loc>https://avanchets.github.io/categories/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/categories/"
+                href="https://avanchets.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/categories/"
+                href="https://avanchets.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/"
+                href="https://avanchets.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/css/</loc>
+    <loc>https://avanchets.github.io/tags/css/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/css/"
+                href="https://avanchets.github.io/fr/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/css/"
+                href="https://avanchets.github.io/tags/css/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/html/</loc>
+    <loc>https://avanchets.github.io/tags/html/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/html/"
+                href="https://avanchets.github.io/fr/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/html/"
+                href="https://avanchets.github.io/tags/html/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/markdown/</loc>
+    <loc>https://avanchets.github.io/tags/markdown/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/markdown/"
+                href="https://avanchets.github.io/fr/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/markdown/"
+                href="https://avanchets.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/onion/</loc>
+    <loc>https://avanchets.github.io/blog/onion/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/no-image/</loc>
+    <loc>https://avanchets.github.io/tags/no-image/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/categories/syntax/</loc>
+    <loc>https://avanchets.github.io/categories/syntax/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/categories/syntax/"
+                href="https://avanchets.github.io/fr/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/syntax/"
+                href="https://avanchets.github.io/categories/syntax/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/</loc>
+    <loc>https://avanchets.github.io/tags/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/"
+                href="https://avanchets.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/tags/"
+                href="https://avanchets.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/"
+                href="https://avanchets.github.io/tags/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/test/</loc>
+    <loc>https://avanchets.github.io/tags/test/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/themes/</loc>
+    <loc>https://avanchets.github.io/tags/themes/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/themes/"
+                href="https://avanchets.github.io/fr/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/themes/"
+                href="https://avanchets.github.io/tags/themes/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/categories/themes/</loc>
+    <loc>https://avanchets.github.io/categories/themes/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/categories/themes/"
+                href="https://avanchets.github.io/fr/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/themes/"
+                href="https://avanchets.github.io/categories/themes/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/categories/your-mom/</loc>
+    <loc>https://avanchets.github.io/categories/your-mom/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/markdown-syntax/</loc>
+    <loc>https://avanchets.github.io/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/blog/markdown-syntax/"
+                href="https://avanchets.github.io/fr/blog/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/blog/markdown-syntax/"
+                href="https://avanchets.github.io/blog/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/privacy/</loc>
+    <loc>https://avanchets.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/privacy/"
+                href="https://avanchets.github.io/fr/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/privacy/"
+                href="https://avanchets.github.io/tags/privacy/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/rich-content/</loc>
+    <loc>https://avanchets.github.io/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/blog/rich-content/"
+                href="https://avanchets.github.io/fr/blog/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/blog/rich-content/"
+                href="https://avanchets.github.io/blog/rich-content/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/shortcodes/</loc>
+    <loc>https://avanchets.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/shortcodes/"
+                href="https://avanchets.github.io/fr/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/shortcodes/"
+                href="https://avanchets.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/placeholder-text/</loc>
+    <loc>https://avanchets.github.io/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/text/</loc>
+    <loc>https://avanchets.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/emoji/</loc>
+    <loc>https://avanchets.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/emoji/"
+                href="https://avanchets.github.io/fr/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/emoji/"
+                href="https://avanchets.github.io/tags/emoji/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/blog/emoji-support/</loc>
+    <loc>https://avanchets.github.io/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/blog/emoji-support/"
+                href="https://avanchets.github.io/fr/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/blog/emoji-support/"
+                href="https://avanchets.github.io/blog/emoji-support/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/about/</loc>
+    <loc>https://avanchets.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/about/"
+                href="https://avanchets.github.io/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/about/"
+                href="https://avanchets.github.io/about/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/contact/</loc>
+    <loc>https://avanchets.github.io/contact/</loc>
   </url>
 </urlset>

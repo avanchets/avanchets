@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/de/</loc>
+    <loc>https://avanchets.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/"
+                href="https://avanchets.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/"
+                href="https://avanchets.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/"
+                href="https://avanchets.github.io/de/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/de/categories/</loc>
+    <loc>https://avanchets.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/"
+                href="https://avanchets.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/categories/"
+                href="https://avanchets.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/categories/"
+                href="https://avanchets.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/de/contact/</loc>
+    <loc>https://avanchets.github.io/de/contact/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/de/tags/</loc>
+    <loc>https://avanchets.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/"
+                href="https://avanchets.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-future-imperfect-slim.netlify.app/fr/tags/"
+                href="https://avanchets.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-future-imperfect-slim.netlify.app/de/tags/"
+                href="https://avanchets.github.io/de/tags/"
                 />
   </url>
 </urlset>
