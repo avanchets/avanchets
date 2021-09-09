@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cours on Avanchets</title>
+    <link>https://avanchets.github.io/categories/cours/</link>
+    <description>Recent content in Cours on Avanchets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://avanchets.github.io/categories/cours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cours d&#39;appui scolaire</title>
+      <link>https://avanchets.github.io/blog/cours-appuis/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://avanchets.github.io/blog/cours-appuis/</guid>
+      <description>Le site propose des cours de soutien scolaire en math/physique-chimie/anglais/français, pour les étudiants du primaire au post-obligatoire.Les inscriptions se font via le formulaire de contact https://avanchets.github.io/contact/.</description>
+    </item>
+    
+  </channel>
+</rss>
